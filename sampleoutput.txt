@@ -1,0 +1,14 @@
+Read 100 images 
+Correct 51.00% after 0 epochs
+Correct 52.00% after 5 epochs
+Correct 52.00% after 10 epochs
+Correct 55.00% after 15 epochs
+Correct 59.00% after 20 epochs
+Correct 66.00% after 25 epochs
+Correct 83.00% after 30 epochs
+Correct 74.00% after 35 epochs
+Correct 64.00% after 40 epochs
+Correct 87.00% after 45 epochs
+Correct 73.00% after 50 epochs
+Correct 99.00% after 55 epochs
+Predicted images 100.00% correct in 57 epochs

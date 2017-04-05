@@ -1,9 +1,5 @@
-To compile and execute the program:
+For Perceptron, compile the Java files inside an IDE.
 
-1- Compile the source code using the command:
-    javac *.java
+The program is run by passing in the arguments: “filePath”
 
-2- Execute the compiled files using the command:
-    java Perceptron.util.MakeImage
-
- 
+The entry point of the program is the Perceptron class.
